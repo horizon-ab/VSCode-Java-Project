@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Main {
 
-    // Hello - Bailey Say
     // Starts a spring application as a stand-alone application from the main method
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
